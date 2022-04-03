@@ -36,3 +36,5 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+url="http://aeac32544bc4f11e9ba800e0db02f7bd-1514026131.us-west-2.elb.amazonaws.com/"
